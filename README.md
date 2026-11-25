@@ -15,9 +15,9 @@ Every project ends with evidence that it works: a test script, plus short notes 
 
 ## Progress
 
-| ID  | Project        | Status      | Video |
-| --- | -------------- | ----------- | ----- |
-| E01 | Unit converter | in progress | -     |
+| ID  | Project        | Status | Video |
+| --- | -------------- | ------ | ----- |
+| E01 | Unit converter | done   | -     |
 
 ## Running a project
 
