@@ -24,4 +24,9 @@ Every project ends with evidence that it works: a test script, plus short notes 
 ```
 cd e01-unit-converter
 cargo run
+
 ```
+
+## License
+
+MIT. See `LICENSE`
